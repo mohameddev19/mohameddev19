@@ -134,19 +134,41 @@ Here are some ideas to get you started:
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 ✍️ Here I will add my future article:
-<div>
+<ul>
+<li>
 <a href="https://www.linkedin.com/pulse/%25D9%2582%25D9%2585-%25D8%25A8%25D8%25AD%25D9%2585%25D8%25A7%25D9%258A%25D8%25A9-%25D8%25A3%25D8%25BA%25D9%2584%25D9%2589-%25D9%2585%25D8%25A7%25D8%25AA%25D9%2585%25D9%2584%25D9%2583-mohammed-hamdi">time management</a>
+</li>
+<li>
 <a href="https://io.hsoub.com/freelancing/134125-%D8%A3%D9%85%D8%B3%D9%83-%D8%A8%D8%A3%D9%88%D9%84-%D8%B5%D9%8A%D8%AF-%D9%84%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AD%D8%B1">Catch your first freelance prey!</a>
+</li>
+<li>
 <a href="https://www.facebook.com/groups/Sud.Mar.Ass/posts/5172106999525074/?__cft__[0]=AZWG8NcstDNXvqVTUwal_FV1lQof6Sb1lCntQ2UNnpadYYJWlfZ7JKk7g7eon70_nIPObpUiOvCNTh6iRVTGL1xUN4Q7bcADI3dBD50vHghQt2AIs321fzusKhUrBiRhGHWjaIr436ZvQq7xLCMBh271&__tn__=%2CO%2CP-R">Marketing automation</a>
+</li>
+<li>
 <a href="https://www.facebook.com/groups/Sud.Mar.Ass/posts/5172104119525362/?__cft__[0]=AZU33BsCzr_nM2RAp98xVrULfy8C5W8csKILnYGoaJhBcXHDRqREh2zBi-CCCkZPd0RWH_uavsfsSZGR5Z2t59dvIXfI1QrtSy5d8gyIZ7M71GjPNVu0YkMFdoN_T1a65j8NZBssYianyKTjqzptOwlR&__tn__=%2CO%2CP-R">data</a>
+</li>
+<li>
 <a href="https://medium.com/me/stats/post/18fe873520e7">dreamverse</a>
+</li>
+<li>
 <a href="https://www.facebook.com/permalink.php?story_fbid=1268676677207423&id=100021953070952">Artificial intelligence in business</a>
+</li>
+<li>
 <a href="https://www.linkedin.com/pulse/%25D9%2586%25D9%2585%25D9%2588%25D8%25B0%25D8%25AC%25D9%258A-%25D9%2581%25D9%258A-%25D8%25A8%25D9%2586%25D8%25A7%25D8%25A1-%25D8%25A7%25D9%2584%25D9%2585%25D8%25B4%25D8%25A7%25D8%25B1%25D9%258A%25D8%25B9-mohammed-hamdi">My model for project building </a>
+</li>
+<li>
 <a href="https://www.linkedin.com/pulse/%25D9%2583%25D9%258A%25D9%2581-%25D9%2582%25D8%25A7%25D9%2585-mid-journey-%25D8%25A8%25D9%2587%25D8%25B0%25D8%25A7-%25D8%25A7%25D9%2584%25D8%25A5%25D8%25A8%25D8%25AF%25D8%25A7%25D8%25B9-mohammed-hamdi/?trackingId=GhFTYIeHSC%2BfRhKjmXOE3g%3D%3D">How does midjourney work</a>
+</li>
+<li>
 <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02LLVQHkQ3WcdQbauSYfNeUx29PXbntpMT2KoosYzV52t9KySJGgx1Jac26H4vCgS6l&id=100021953070952&__cft__[0]=AZUcg6YHlOcKTEeJ9olvhqKSYUqgdnTgX7e9J9nrkuPDRIf10WLimk-Y6Lcsj1sT2eJ7p8MWZJbkcVqbPNFY0iyo91MVgfSxyY4UaPZNvbWknKLWfg8Bnmejr9m-qVWrwuU&__tn__=R]-R">contempt</a>
+</li>
+<li>
 <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02yHr9DJpsh4KzWsKNaFK4pi5Hf4AErkyHZRnNxHWjmrzpFkntE3sXVtmjkRCtZT4cl&id=100021953070952&__cft__[0]=AZUcg6YHlOcKTEeJ9olvhqKSYUqgdnTgX7e9J9nrkuPDRIf10WLimk-Y6Lcsj1sT2eJ7p8MWZJbkcVqbPNFY0iyo91MVgfSxyY4UaPZNvbWknKLWfg8Bnmejr9m-qVWrwuU&__tn__=R]-R">boredom phobia</a>
+</li>
+<li>
 <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid01TYtKnghGiHspfeLf5PHoF1J1X3AUxe5S9Cg8ufRMDki1ipakvP8E368ErDXT9uxl&id=100021953070952&__cft__[0]=AZUcg6YHlOcKTEeJ9olvhqKSYUqgdnTgX7e9J9nrkuPDRIf10WLimk-Y6Lcsj1sT2eJ7p8MWZJbkcVqbPNFY0iyo91MVgfSxyY4UaPZNvbWknKLWfg8Bnmejr9m-qVWrwuU&__tn__=R]-R">The next fatal step</a>
-</div>
+</li>
+</ul>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
