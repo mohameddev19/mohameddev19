@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Mohammed Hamdi, a part-time front-end freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on  ALIMNY E-Learning platform
   
 
 - 🌱 I’m currently learning ai & ml  
