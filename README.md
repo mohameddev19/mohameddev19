@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Cairo&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%3C+%F0%9F%91%8B+Hello%2C+World+%2F%3E" alt="Hello, World " />
 </div>  
   
 
