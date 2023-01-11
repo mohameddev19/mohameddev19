@@ -136,6 +136,9 @@ Here are some ideas to get you started:
 ✍️ Here I will add my future article:
 <ul>
 <li>
+<a href="[https://www.linkedin.com/pulse/%25D9%2582%25D9%2585-%25D8%25A8%25D8%25AD%25D9%2585%25D8%25A7%25D9%258A%25D8%25A9-%25D8%25A3%25D8%25BA%25D9%2584%25D9%2589-%25D9%2585%25D8%25A7%25D8%25AA%25D9%2585%25D9%2584%25D9%2583-mohammed-hamdi](https://io.hsoub.com/tech/141784-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85%D8%A9-%D9%88-%D8%AC%D8%AD%D9%8A%D9%85-%D8%A7%D9%84chatgpt)">The future of programmers and ChatGPT hell</a>
+</li>
+<li>
 <a href="https://www.linkedin.com/pulse/%25D9%2582%25D9%2585-%25D8%25A8%25D8%25AD%25D9%2585%25D8%25A7%25D9%258A%25D8%25A9-%25D8%25A3%25D8%25BA%25D9%2584%25D9%2589-%25D9%2585%25D8%25A7%25D8%25AA%25D9%2585%25D9%2584%25D9%2583-mohammed-hamdi">time management</a>
 </li>
 <li>
