@@ -181,14 +181,12 @@ Here are some ideas to get you started:
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mohameddev19&&style=flat-square" align="center" />
-</div>  
+  <img src="https://komarev.com/ghpvc/?username=mohameddev19&&style=flat-square" align="center" style="margin-bottom: 5px;" />
+
+  ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2040%20mins-blue)
+
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
+  </div>  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
